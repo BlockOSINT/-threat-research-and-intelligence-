@@ -35,18 +35,18 @@ Considering that it is a known vector, this brief investigation only seeks to hi
 
 # Links:
 
--https://www.linkedin.com/in/onder-kayabasi-772a33302/
--https://x.com/OnderKayabasi
--https://github.com/OnderKayabasi
--https://github.com/KaanKayabasi
--https://github.com/goodfriend9290
--https://github.com/smartdev0119
--https://github.com/WebWizard109707
--https://github.com/devmaster929
--https://github.com/laurenninedots
--https://github.com/Bionicle18
--https://smallpdf.com/file#s=6f700ad0-eebe-4d64-8bbe-f8349dc168f6
--https://github.com/sammorozov
--https://github.com/luisapogozelski?tab=followers
--https://smallpdf.com/file#s=c6758c8c-bb16-41bd-858e-af90138c9616
--https://smallpdf.com/file#s=1c825f3a-22d8-441f-99f6-001e3f70bc2e
+- https://www.linkedin.com/in/onder-kayabasi-772a33302/
+- https://x.com/OnderKayabasi
+- https://github.com/OnderKayabasi
+- https://github.com/KaanKayabasi
+- https://github.com/goodfriend9290
+- https://github.com/smartdev0119
+- https://github.com/WebWizard109707
+- https://github.com/devmaster929
+- https://github.com/laurenninedots
+- https://github.com/Bionicle18
+- https://smallpdf.com/file#s=6f700ad0-eebe-4d64-8bbe-f8349dc168f6
+- https://github.com/sammorozov
+- https://github.com/luisapogozelski?tab=followers
+- https://smallpdf.com/file#s=c6758c8c-bb16-41bd-858e-af90138c9616
+- https://smallpdf.com/file#s=1c825f3a-22d8-441f-99f6-001e3f70bc2e
