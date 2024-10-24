@@ -1,3 +1,5 @@
+# Fraud Alert: Fake recruiters on GitHub and LinkedIn
+
 # Investigation
 
 This investigation examines fake recruiters operating on GitHub and LinkedIn and was published on Medium:
