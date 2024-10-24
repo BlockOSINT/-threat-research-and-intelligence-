@@ -1,7 +1,22 @@
 # Investigation
 
-This investigation is focused on fake recruiters on GitHub and LinkedIn
+This investigation examines fake recruiters operating on GitHub and LinkedIn and was published on Medium:
 
+- https://medium.com/coinmonks/fake-recruiters-in-github-68d0d3bf297d
+
+# Source
+
+The accounts listed here are part of an investigation into malicious actors on GitHub. Much of this activity, related to fake recruiters and employees, has been primarily associated with the Lazarus Group.
+
+The accounts were manually scraped, filtering certain characteristics such as:
+
+- Creation date
+
+- (Follow/Follower): these accounts follow each other like a network
+
+- Bio: many of these profiles have similar descriptions
+
+- Context: Accounts with broken links, AI-generated images, profiles in Latin America with an Asian appearance, and accounts with no history.
 
 # Update
 
@@ -32,6 +47,7 @@ Considering that it is a known vector, this brief investigation only seeks to hi
 - There are more new accounts in GitHub and most of them follow the same pattern of Bio, creation date, followed by, job as recruiters, LinkedIn link, and other things that are not a coincidence.
 - The excel list shared here, are user who follow certain pattern regarding what seems to be suspicious, howevere there a few accounts that we cannot determine if they are fake or real.
 - GitHub recently issued a security alert warning of a social engineering campaign targeting developer accounts in the cryptocurrency, blockchain, cybersecurity, and online gambling domains.
+
 
 # Links:
 
