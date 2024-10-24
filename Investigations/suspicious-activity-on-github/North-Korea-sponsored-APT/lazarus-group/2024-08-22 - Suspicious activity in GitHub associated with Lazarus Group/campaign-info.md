@@ -66,6 +66,6 @@ In this investigation we track the same account and others related to understand
 
 No links
 
-# GitHub accounts
+# GitHub accounts - Suspicious following pattern
 
 Check folder
