@@ -155,7 +155,7 @@ These accounts are currently suspended and are among the followers or following 
 
 # Highlights
 
-Combining unconventional threat-hunting techniques, such as image analysis and human intelligence (HUMINT), can enhance the ability to track threat actors more effectively.
+Combining innovative threat-hunting techniques, such as image analysis and human intelligence (HUMINT), can enhance the ability to track threat actors more effectively.
 
 - Image analysis, like tracking specific visual elements such as icons or images, allows researchers to identify and link threat actors across campaigns, even when they attempt to evade detection. Similarly, HUMINT focuses on gathering intelligence from social engineering, insider interactions, and open-source human behavior, adding context that purely technical indicators often miss.
 
