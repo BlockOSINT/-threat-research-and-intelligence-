@@ -81,4 +81,4 @@ Some aspects to consider in this image classification:
 
   # How gh-analyzer Provides Context and Identifies Potential Account Behavior:
 
-   Using the tool gh-fake-analyzer [https://github.com/shortdoom/gh-fake-analyzer]  can enhance your intelligence in identifying accounts potentially linked to North Korean threat actors like Lazarus
+   Using the tool gh-fake-analyzer https://github.com/shortdoom/gh-fake-analyzer can enhance your intelligence in identifying accounts potentially linked to North Korean threat actors like Lazarus
