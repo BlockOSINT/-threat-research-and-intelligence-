@@ -5,7 +5,7 @@ The investigation into the threat actor associated with DPRK activities has reve
 # How to Identify a Suspicious GitHub Account Associated with DPRK Threat Actors
 We can also identify a GitHub account based on its actual context - such as country, connections, social networks, and social activity - and analyze its relationships within that context, including follower and following patterns.
 
-*When analyzing an account to determine if it might be related to a group threat actor like Lazarus, it's essential to consider the following aspects:*
+When analyzing an account to determine if it might be related to a group threat actor like Lazarus, it's essential to consider the following aspects:
 
 - Creation Date: Many accounts were created between May and the end of 2023, exhibiting sporadic or unusual repository activity. However, there have also been instances where stolen accounts are used or purchased from other actors operating on GitHub who offer these services.
   
@@ -31,7 +31,7 @@ We can also identify a GitHub account based on its actual context - such as 
 
 This approach could also help in identifying suspicious accounts by highlighting key characteristics and connections within their network
 
-# How some accounts related to this suspicious campaing look like? 
+# What do accounts linked to this suspicious campaign look like?
 
 Based on our investigation, we have identified certain patterns in the creation of these accounts, such as creation dates, skills, similar images in profiles, comparable bios, and analogous GitHub handles, among other aspects. 
 
@@ -43,8 +43,42 @@ Some aspects to consider in this image classification:
   
 - "Superstar" is a name they consistently use in their campaign (GitHub handle, profile images, text found) and this has been repeatedly observed among them.
   
-- We found that these profiles, which have a substantial following, often tend to identify themselves with images featuring the number one, frequently complemented by gold and red colors and stars.
+- We found that these profiles, which have a substantial following, often tend to identify themselves with images featuring the number one, frequently complemented by gold, stars and red colors.
   
 - There are also profile images linked to anime, movies, and other themes, where these accounts are interconnected. Furthermore, these profiles are commonly found among the followers of these accounts.
   
 - While there is a diverse range of images, many accounts follow the pattern of presenting themselves as "developers" while aligning with a specific image.
+
+  *In our classification of images, it seems to indicate the existence of the some kind of categories or ranks among their accounts. Additionally, there are groups of accounts with specific images that appear to serve certain functions*
+
+  *Most of the following GitHub accounts list their skills as 'Full Stack Developer' or 'Blockchain Engineer', 	'AI | Blockchain | Full Stack Engineer | DevOps'  among the most popular titles*
+
+  # Profile Image Patterns and Behavioral Traits of Identified Accounts
+
+  Among the identified accounts, we've observed six distinct types of profile images frequently used for self-identification. These images and identities often correlate with specific account behaviors. For instance, some accounts:
+  
+  - exclusively follow female profiles
+  - while others boast over 50,000 followers
+  - certain accounts actively monitor their targets
+  - many appear to be interconnected through shared followers or those they follow
+
+  # #1 type of accounts:
+
+  Among the most significant accounts, it has been observed that those featuring images with the number one, golden spikes, and stars appear to function as nodes or clusters. Considering the context of the actor, it is possible that these accounts, which have many followers, are used to monitor the activities of "lower-tier" entities. Additionally, since these accounts may serve as intelligence units, they could be essential for coordinating attacks and assessing the effectiveness of the units involved in the campaigns
+  ![DPRK MIXED SUPERSTAR](https://github.com/user-attachments/assets/85b37086-2e49-4b5c-afaa-22b1fd170134)
+
+
+ # #2 type of accounts: 
+
+ 
+
+ # #3 type of accounts:
+
+
+# 
+
+
+
+  # How gh-analyzer Provides Context and Identifies Potential Account Behavior:
+
+   Using the tool gh-fake-analyzer [https://github.com/shortdoom/gh-fake-analyzer]  can enhance your intelligence in identifying accounts potentially linked to North Korean threat actors like Lazarus
