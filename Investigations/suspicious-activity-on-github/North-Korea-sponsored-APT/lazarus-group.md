@@ -137,7 +137,7 @@ The GitHub accounts shown here also exhibit some indicators that may suggest the
 
 - External Links and Contact Information: Some profiles include contact information or links to freelancing platforms, which could be legitimate, but in some cases, it's used to create a perception of authenticity. If these links lead to minimal or duplicate portfolios, it could be another indication of a fake network.
 
-- Location-Based Trust SignalsRecently: it has been observed that many of these accounts are now adapting by specifying locations, sometimes even providing exact details about small and mid-sized cities where they are supposedly based. This seems to be an attempt to create a greater sense of trust and authenticity.
+- Location-Based Trust Signals: Recently it has been observed that many of these accounts are now adapting by specifying locations, sometimes even providing exact details about small and mid-sized cities where they are supposedly based. This seems to be an attempt to create a greater sense of trust and authenticity.
 
 ![stolen people DPRK](https://github.com/user-attachments/assets/17b10a5d-300d-4eae-99a6-d1d9de8733cc)
 
