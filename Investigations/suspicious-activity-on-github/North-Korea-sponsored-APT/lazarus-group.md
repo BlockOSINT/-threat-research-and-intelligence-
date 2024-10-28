@@ -62,20 +62,26 @@ Some aspects to consider in this image classification:
   - certain accounts actively monitor their targets
   - many appear to be interconnected through shared followers or those they follow
 
-  # #1 type of accounts: Star - SuperStar
+  # #1 Type of accounts: Star - "SuperStar"
 
   Among the most significant accounts, it has been observed that those featuring images with the number one, golden spikes, and stars appear to function as nodes or clusters. Considering the context of the actor, it is possible that these accounts, which have many followers, are used to monitor the activities of 
     "lower-tier" entities. Additionally, since these accounts may serve as intelligence units, they could be essential for coordinating attacks and assessing the effectiveness of the units involved in the campaigns
 
 - Role as Nodes or Clusters: The repeated use of symbols representing leadership or dominance (like gold stars and medals) suggests that these accounts may act as central nodes within a network. They could play a strategic role by gathering followers and acting as influential points within broader networks. These central accounts could be used to coordinate or observe the actions of associated or subordinate accounts (“lower-tier” entities) by directing their activity and gathering information.
 
-- Usernames and Roles: Usernames continue to focus on common developer keywords like “Full Stack Developer,” “AI Engineer,” “Super Dev,” and various references to technology stacks or roles. 
+- Usernames and Roles: Usernames continue to focus on common developer keywords like “Full Stack Developer,” “AI Engineer,” “Super Dev,” and various references to technology stacks or roles.
+
+- Campaing association: The term "SuperStar" has been coined for a campaign targeting GitHub accounts linked to fake developers, as many of these accounts—often using specific images—are associated with activities of the North Korean APT group, Lazarus.
+
+- It has been observed that these suspicious GitHub accounts are followed by or follow many other accounts that form a network likely associated with the activities of the North Korean APT group, Lazarus. If not directly connected, these "SuperStar" accounts may appear among the followers or followed accounts within two or three degrees of separation from the suspicious account.
+  
+- Additionally, in the following repository, a screenshot of a group member possibly reveals the use of "SuperStar" in the computer's name, further underscoring the relevance of this term: https://github.com/orgs/Finalgoal231/discussions/69
   
 ![image](https://github.com/user-attachments/assets/d47f1342-8af9-4cd0-8ed1-57cccf600939)
 
 
 
- # #2 type of accounts: AI-generated images or avatars
+ # #2 Type of accounts: AI-generated images or avatars
 
  Many profiles use AI-generated images or avatars, which may be intentionally chosen to obscure the user's identity or add visual appeal.
  
@@ -85,7 +91,7 @@ Some aspects to consider in this image classification:
  ![image](https://github.com/user-attachments/assets/39904cb4-7d17-4ba0-9fa0-1f85ab4c0fc1)
 
 
- # #3 type of accounts: Minion Avatars:
+ # #3 Type of accounts: Minion Avatars:
 
  Multiple instances of these profiles have been identified. Some of these GitHub accounts are linked to LinkedIn profiles (verified connections) but exhibit no typical social activity on that platform. This lack of interaction raises suspicion, especially given their claimed experience levels. Generally, accounts with such credentials would have higher activity levels. Monitoring these types of accounts through associations can indicate suspicious behavior, as many of these profiles lack repositories or noteworthy content that would typically warrant someone choosing to "follow" them on GitHub.
 
@@ -97,7 +103,7 @@ Some aspects to consider in this image classification:
 
 ![minion fools](https://github.com/user-attachments/assets/a538a4bb-9831-40f1-9b8c-c92fdb20d054)
 
-# #4 cartoon-style avatars:
+# #4 Cartoon-style avatars:
 
 These GitHub profiles exhibit some characteristics that might indicate suspicious or inauthentic activity
 
@@ -142,9 +148,9 @@ The GitHub accounts shown here also exhibit some indicators that may suggest the
 ![stolen people DPRK](https://github.com/user-attachments/assets/17b10a5d-300d-4eae-99a6-d1d9de8733cc)
 
 
-# #7 suspended accounts related to this network:
+# #7 Suspended accounts related to this network:
 
-These accounts are currently suspended and are among the followers or following lists of accounts linked to activity associated with the Lazarus Group.
+These accounts are currently suspended and are among the followers or following lists of accounts linked to activity associated with North Korean APT Lazarus Group
 
 - An important aspect to highlight is that many of these suspended accounts fit into the segmentation we discussed regarding the identifiers they use for themselves.
 
@@ -161,17 +167,18 @@ Combining innovative threat-hunting techniques, such as image analysis and human
 
 - Together, these methods show the potential of combining technical and behavioral insights to detect and anticipate threats earlier. However, they are often underutilized, as traditional threat hunting tends to focus mainly on network and endpoint indicators. Emphasizing HUMINT and image analysis could improve early threat detection and adversary profiling.
 
-Analyzing alternative methods, such as images, photos, videos, and conversations in the early stages of the kill-chain, is an underutilized approach in threat hunting. By considering the attacker’s context, we can gain valuable insights into their tactics across various social networks. Individuals from countries with strict internet control and isolation often exhibit distinctive cultural and online behavior patterns, making these aspects both valuable and intriguing to study.
+- Analyzing alternative methods, such as images, photos, videos, and conversations in the early stages of the kill-chain, is an underutilized approach in threat hunting. By considering the attacker’s context, we can gain valuable insights into their tactics across various social networks. Individuals from countries with strict internet control and isolation often exhibit distinctive cultural and online behavior patterns, making these aspects both valuable and intriguing to study.
 
-Focusing solely on attack vectors limits our understanding to moments when the adversary is actively targeting us. Cyber intelligence must go beyond analyzing hashes and IOCs; retrospective analysis reduces us to evidence collectors rather than proactive defenders. True intelligence aims to anticipate the adversary’s actions, maintaining a proactive edge.
+Cyber intelligence requires a holistic approach that includes behavioral analysis, threat actor profiling, and contextual intelligence; retrospective analysis reduces us to evidence collectors rather than proactive defenders. 
 
-
+*True intelligence aims to anticipate the adversary’s actions, maintaining a proactive edge.*
 
   # How gh-analyzer Provides Context and Identifies Potential Account Behavior:
     
    gh-analyze is designed to quickly build a dataset with accessible schema of github profiles you are targeting for the investigation. It is still work in progress.s)  https://github.com/shortdoom/gh-fake-analyzer
 
    Download, analyze and monitor profile data of any GitHub user or organization. This reconnaissance tool is designed for the OSINT/security community, enabling the inspection of potential bot, scammer, blackhat, or fake employee accounts for dark patterns (see, Malicious GitHub Accounts)  
+   
 
    # Analyzing Lazarus-Related accounts with gh-fake-analyzer: 
 
@@ -182,8 +189,6 @@ By integrating gh-fake-analyzer into your threat-hunting workflow, you can effec
 - Enhance Profile Verification: Quickly assess the authenticity of GitHub users, ensuring that you engage only with trustworthy contributors.
 
 - Identify Potential Threats: Detect accounts that exhibit suspicious behavior, such as fake contributions or misleading project involvement, which may indicate a broader threat.
-
-- Streamline Investigations: Automate the initial stages of threat analysis, allowing you to focus on higher-priority investigations and response strategies.
 
 - Improve Incident Response: By identifying fraudulent profiles early, you can prevent potential security breaches and reduce the impact of malicious activities.
 
