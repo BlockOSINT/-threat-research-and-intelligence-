@@ -168,9 +168,23 @@ Focusing solely on attack vectors limits our understanding to moments when the a
 
 
   # How gh-analyzer Provides Context and Identifies Potential Account Behavior:
-
-   Using the tool gh-fake-analyzer https://github.com/shortdoom/gh-fake-analyzer can enhance your intelligence. 
-   
-   gh-analyze is designed to quickly build a dataset with accessible schema of github profiles you are targeting for the investigation. It is still work in progress.s)
+    
+   gh-analyze is designed to quickly build a dataset with accessible schema of github profiles you are targeting for the investigation. It is still work in progress.s)  https://github.com/shortdoom/gh-fake-analyzer
 
    Download, analyze and monitor profile data of any GitHub user or organization. This reconnaissance tool is designed for the OSINT/security community, enabling the inspection of potential bot, scammer, blackhat, or fake employee accounts for dark patterns (see, Malicious GitHub Accounts)  
+
+   # Analyzing Lazarus-Related accounts with gh-fake-analyzer: 
+
+   Leveraging the gh-fake-analyzer tool can significantly enhance your intelligence operations by providing advanced capabilities to detect and analyze fraudulent or misleading GitHub profiles. This tool utilizes various heuristics to identify indicators of deception, such as unusual activity patterns, inconsistencies in profile data, and irregular contributions.
+
+By integrating gh-fake-analyzer into your threat-hunting workflow, you can effectively filter out potential threats posed by malicious actors who may disguise themselves as legitimate contributors. This enables you to:
+
+- Enhance Profile Verification: Quickly assess the authenticity of GitHub users, ensuring that you engage only with trustworthy contributors.
+
+- Identify Potential Threats: Detect accounts that exhibit suspicious behavior, such as fake contributions or misleading project involvement, which may indicate a broader threat.
+
+- Streamline Investigations: Automate the initial stages of threat analysis, allowing you to focus on higher-priority investigations and response strategies.
+
+- Improve Incident Response: By identifying fraudulent profiles early, you can prevent potential security breaches and reduce the impact of malicious activities.
+
+*Incorporating gh-fake-analyzer into your intelligence toolkit could make informed decisions and maintain a proactive stance against evolving threats in the digital landscape.*
