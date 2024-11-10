@@ -9,6 +9,20 @@ The aim of this research was to demonstrate that the previously mentioned GitHub
 
 https://medium.com/@-Heiner/reviewing-the-activity-of-github-accounts-associated-with-lazarus-635cb47881dc
 
+
+# Introduction: The Unique Aspects of Investigating on GitHub
+
+Today, a wide range of social networks and communication platforms exist, each serving a unique purpose and community. Many social networks have specific focuses, such as photo sharing, fitness tracking, or gaming, which shape the platform's features and functionality.
+
+GitHub, while primarily a code repository, also exhibits social networking characteristics that facilitate communication and collaboration among developers. However, its core functionalities are centered around code management, version control, and collaborative development, distinguishing it from traditional social networks. 
+
+GitHub’s unique structure and interaction model foster a distinct type of community, centered around collaboration and code sharing. Unlike traditional social platforms, GitHub’s community forms organically through contributions, pull requests, and issue discussions on open-source projects. This interaction style encourages knowledge sharing, peer review, and collective problem-solving, creating a collaborative environment that is both technical and community-driven. 
+
+GitHub’s emphasis on building and refining code, rather than traditional socializing, makes it a fascinating platform for analyzing the unique networks and communities that form around it. Activities such as building community, connecting with others, and collaborating on projects all unfold in ways specific to GitHub, requiring users to engage through meaningful contributions rather than typical social interactions.
+
+Our investigation focuses on how DPRK actors attempt to integrate and interact within the GitHub community. By leveraging behavioral and network analysis, we’re developing an advanced approach to identify these accounts and understand their strategies. This specialized analysis enables us to spot unusual patterns and maintain the integrity of this developer-driven platform.
+
+
 # Source
 
 The accounts listed here are part of an investigation into malicious actors on GitHub. Much of this activity, related to fake recruiters and employees, has been primarily associated with the Lazarus Group.
