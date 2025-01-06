@@ -30,7 +30,9 @@
 
 - By sharing this data, we’re hoping to help organizations enhance their security posture specifically against this particular threat from the DPRK.
 
-# IP List: https://storage.googleapis.com/spur-astrill-vpn/astrill_vpn_ips_december_2024.txt
+# IP List: 
+
+- https://storage.googleapis.com/spur-astrill-vpn/astrill_vpn_ips_december_2024.txt
 
 205\.178.183.71
 
