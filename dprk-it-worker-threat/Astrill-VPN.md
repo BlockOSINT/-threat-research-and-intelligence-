@@ -4,10 +4,8 @@
 
 - In our ongoing efforts to help organizations protect against fraud and abuse, we’re excited to announce the free release of a comprehensive list of IP addresses associated with the VPN service known as Astrill VPN.
 
-- These ~2,400 IP address, active as of December 19th 2024, can be downloaded here:
+- These ~2,400 IP address, active as of December 19th 2024, can be downloaded here: https://storage.googleapis.com/spur-astrill-vpn/astrill_vpn_ips_december_2024.txt
 
-- https://storage.googleapis.com/spur-astrill-vpn/astrill_vpn_ips_december_2024.txt:
-  Ip list;
 
 
 # Further Context
